@@ -1,0 +1,46 @@
+header {
+    padding: 0 39px;
+    padding-top: 24px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    padding: 0 39px;
+}
+.contenido-informacion {
+    display: flex;
+}
+.imagen-mobil {
+    display: none;
+}
+.imagen-tablet {
+    display: block;
+    width: 360px;
+    margin-right: -39px;
+    margin-top: -55px;
+}
+
+.contenido-informacion-cards {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 86px;
+}
+.contenido-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.contenido-cards h2 {
+    display: flex;
+    width: 339px;
+    height: 259px;
+    padding: 32px;
+    padding-top: 70px;
+    align-items: flex-start;
+}
+.contenido-card {
+    width: 339px;
+}
+footer {
+    padding: 36px 39px;
+}
+

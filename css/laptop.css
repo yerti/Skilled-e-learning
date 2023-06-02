@@ -1,0 +1,37 @@
+header {
+    padding: 0 165px;
+    padding-top: 35px;
+}
+.contenido-header button {
+    width: 167px;
+    height: 56px;
+    cursor: pointer;
+}
+.contenido-header button:hover {
+    background-color: var(--plomo-oscuro);
+}
+main {
+    padding: 0 165px;
+}
+.contenido-informacion-texto button {
+    width: 167px;
+    height: 56px;
+}
+.imagen-tablet {
+    display: none;
+}
+.imagen-laptop {
+    display: block;
+    width: 527px;
+    margin-right: -165px;
+    margin-top: -91px;
+}
+
+.contenido-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-bottom: 86px;
+}
+footer {
+    padding: 32px 165px;
+}
