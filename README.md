@@ -36,7 +36,7 @@ captura de pantalla para laptop
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/yerti/Skilled-e-learning)
-- Live Site URL: [Add live site URL here](https://yerti.github.io/workit-landing-page/)
+- Live Site URL: [Add live site URL here](https://yerti.github.io/Skilled-e-learning/)
 
 ## My process
 
